@@ -13,11 +13,15 @@
     </head>
     <body>
         <header>
-            <section>
-                <img src="Images/Controller logo_Design 1 banner version.png">
-                <nav></nav>
-                <img src="">
-            </section>
+            <img id="logoL" src="Images/Controller logo_Design 1 banner version.png">
+            <img id="logoS" src="Images/Controller logo compact_Design 1.png">
+            <nav>
+                <a href="Homepage.html"><p>Homepage</p></a>
+                <a href="Rating.html"><p>Rating</p></a>
+                <a href="Merchandise.html"><p>Merchandise</p></a>
+                <a href="about us.html"><p>about us</p></a>
+            </nav>
+            <img id="searchIcon" src="Images\Search icon.png">
         </header>
     </body>
 </html>
