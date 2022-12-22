@@ -36,7 +36,7 @@ header > #searchIcon {
     grid-column-end: 23;
 }
 
-nav {
+header > nav {
     display: flex;
     justify-content: space-around;
     text-align: center;
@@ -46,7 +46,7 @@ nav {
 
 }
 
-a {
+header > nav > a {
     display: flex;
     text-decoration: none;
     font-size: 1.5rem;
@@ -70,10 +70,10 @@ a {
     }
 }
 
-a:active, a:visited, a:link {
+header > nav > a:active, a:visited, a:link {
     color: white;
     background-color: var(--C3);
 }
-a:hover {
+header > nav > a:hover {
     background-color: var(--C1);
 }
