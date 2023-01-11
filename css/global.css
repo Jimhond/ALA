@@ -11,14 +11,6 @@ body {
     margin: 0;
 }
 
-header {
-    display: grid;
-    grid-template-columns: repeat(24, 1fr);
-    grid-template-rows: 75px;
-    align-items: center;
-    background-color: var(--AccentColor);
-}
-
 #logoL {
     height: 70px;
     grid-column-start: 0;
@@ -58,6 +50,14 @@ header > #searchIcon {
 
 #SMLogo4 {
     height:40px;
+}
+
+header {
+    display: grid;
+    grid-template-columns: repeat(24, 1fr);
+    grid-template-rows: 75px;
+    align-items: center;
+    background-color: var(--AccentColor);
 }
 
 header > nav {
