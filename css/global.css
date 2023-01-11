@@ -109,3 +109,8 @@ header > nav > a:hover {
     background-color: var(--C1);
 }
 
+footer {
+    position: absolute;
+    bottom: 0;
+    background-color: var(--AccentColor);
+}
