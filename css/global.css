@@ -36,6 +36,37 @@ header > #searchIcon {
     grid-column-end: 23;
 }
 
+#phoneLogo {
+    width:75px;
+    height:75px;
+}
+
+#emailLogo {
+    width:75px;
+    height:75px;
+}
+
+#SMLogo1 {
+    width:75px;
+    height:75px;
+
+}
+
+#SMLogo2 {
+    width:75px;
+    height:75px;
+}
+
+#SMLogo3 {
+    width:75px;
+    height:75px;
+}
+
+#SMLogo4 {
+    width:75px;
+    height:75px;
+}
+
 header > nav {
     display: flex;
     justify-content: space-around;
