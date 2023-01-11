@@ -106,4 +106,7 @@ footer {
     position: absolute;
     bottom: 0px;
     background-color: var(--AccentColor);
+    display: grid;
+    grid-template-columns: repeat(24, 1fr);
 }
+
