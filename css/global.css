@@ -29,7 +29,6 @@ header {
     height: 70px;
     grid-column-start: 0;
 }
-/* dick n' balls */
 header > #searchIcon {
     width: 40px;
     grid-column-start: 23;
