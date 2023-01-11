@@ -114,6 +114,8 @@ footer {
     bottom: 0px;
     background-color: var(--AccentColor);
     display: grid;
+    justify-items: center;
+    align-items: center;
     grid-template-columns: repeat(24, 1fr);
 }
 
