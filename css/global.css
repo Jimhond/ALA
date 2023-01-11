@@ -110,3 +110,8 @@ footer {
     grid-template-columns: repeat(24, 1fr);
 }
 
+footer > section {
+    display: flex;
+    gap: 15px;
+    justify-items: space-between;
+}
