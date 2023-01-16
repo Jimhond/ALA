@@ -27,8 +27,7 @@ body {
 }
 header > #searchIcon {
     width: 40px;
-    grid-column-start: 23;
-    grid-column-end: 23;
+    margin-right: 20px;
 }
 
 #phoneLogo {
@@ -93,6 +92,9 @@ header > nav > a {
     
     #aImgS {
         display: block;
+    }
+    #aImgL {
+        display: none;
     }
 
     #logoL {
