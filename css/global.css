@@ -103,7 +103,7 @@ header > nav > a {
     }
 }
 
-header > nav > a:active, a:visited, a:link {
+header > nav > a:active, header > nav > a:visited, header > nav > a:link {
     color: white;
     background-color: var(--C3);
 }
