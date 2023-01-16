@@ -37,26 +37,18 @@ header > #searchIcon {
 
 #SMLogo1 {
     height:40px;
-    grid-column-start: 10;
-    grid-column-end: 12;
 }
 
 #SMLogo2 {
     height:40px;
-    grid-column-start: 14;
-    grid-column-end: 16;
 }
 
 #SMLogo3 {
     height:40px;
-    grid-column-start: 18;
-    grid-column-end: 20;
 }
 
 #SMLogo4 {
     height:40px;
-    grid-column-start: 22;
-    grid-column-end: 24;
 }
 
 header {
