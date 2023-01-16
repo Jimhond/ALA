@@ -111,7 +111,7 @@ footer {
     grid-template-columns: repeat(24, 1fr);
 }
 
-footer > section {
+footer section:nth-child(3) {
     display: flex;
     gap: 15px;
     justify-items: space-between;
