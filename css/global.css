@@ -11,6 +11,9 @@ body {
     margin: 0;
 }
 
+/* Header css */
+{
+
 #logoL {
     height: 70px;
     grid-column-start: 0;
@@ -99,6 +102,8 @@ header > nav > a:active, a:visited, a:link {
 }
 header > nav > a:hover {
     background-color: var(--C1);
+}
+
 }
 
 footer {
