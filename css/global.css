@@ -11,7 +11,9 @@ body {
     margin: 0;
 }
 
-
+#aImgS {
+    display: none;
+}
 
 #logoL {
     height: 70px;
@@ -59,6 +61,7 @@ header {
     grid-template-rows: 75px;
     align-items: center;
     background-color: var(--AccentColor);
+    clip-path: polygon(100% 80%, 100% 100%, 80% 100%);
 }
 
 header > nav {
@@ -86,6 +89,11 @@ header > nav > a {
     #logoS {
         display: block;
     }
+    
+    #aImgS {
+        display: block;
+    }
+
     #logoL {
         display: none;
     }
