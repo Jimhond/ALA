@@ -10,7 +10,7 @@ h1 {
     gap: 15px;
 }
 
-#merchCard {
+.merchCard {
     width: 90%;
     height: 90%;
     text-align: center;
