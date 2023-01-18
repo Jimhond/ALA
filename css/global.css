@@ -60,7 +60,8 @@ header {
     background-color: var(--AccentColor);
     justify-content: space-between;
     height: 75px;
-    /* clip-path: polygon(0 0, 100% 0%, 100% 45px, calc(100% - 30px) 75px, 30px 75px, 0% 100%); */
+    clip-path: polygon(0 0, 100% 0%, 100% 45px, calc(100% - 30px) 75px, 30px 75px, 0% 100%);
+    padding-bottom: 30px;
 }
 
 header > nav {
@@ -68,8 +69,7 @@ header > nav {
     justify-content: space-around;
     text-align: center;
     align-items: center;
-    grid-column-start: 2;
-    grid-column-end: 23;
+    gap: 10px;
     width: 100%;
 
 }
