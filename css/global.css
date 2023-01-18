@@ -70,6 +70,7 @@ header > nav {
     align-items: center;
     grid-column-start: 2;
     grid-column-end: 23;
+    width: 100%;
 
 }
 
@@ -110,7 +111,7 @@ header > nav > a:active, header > nav > a:visited, header > nav > a:link {
     background-color: var(--C3);
 }
 header > nav > a:hover {
-    background-color: var(--C1);
+    border: solid black 2px;
 }
 
 
