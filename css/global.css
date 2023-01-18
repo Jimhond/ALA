@@ -131,7 +131,7 @@ footer {
     background-color: var(--AccentColor);
     display: flex;
     width: 100%;
-    bottom: 0;
+    margin: 30px 0 0 0;
     justify-content: space-between;
     align-items: center;
 }
