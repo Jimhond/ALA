@@ -1,0 +1,9 @@
+#peopleGrid {
+    display: flex;
+    justify-content: space-around;
+}
+
+#peopleCard {
+    text-align: center;
+    border: solid black;
+}
