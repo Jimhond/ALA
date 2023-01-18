@@ -128,13 +128,14 @@ footer {
     background-color: var(--AccentColor);
     display: flex;
     width: 100%;
+    bottom: 0;
     justify-content: space-between;
     align-items: center;
 }
 
 @media screen and (max-height: 100vh) {
     footer {
-        bottom: 0px;
+        bottom: unset;
     }
 }
 
