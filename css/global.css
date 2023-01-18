@@ -6,9 +6,12 @@
     --C3: #7c030f;
 }
 
+
+
 body {
     background-color: var(--BackgroundGroundColor);
     margin: 0;
+    
 }
 
 #aImgS {
