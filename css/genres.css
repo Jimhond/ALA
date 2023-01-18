@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+#genreGrid {
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    place-content: space-around;
+    gap: 15px;
+}
+
+.genreCard {
+    width: 90%;
+    height: 90%;
+    text-align: center;
+    border: solid white;
+}
+.genreCard img {
+    width: 100%;
+}
