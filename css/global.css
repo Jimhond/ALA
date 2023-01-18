@@ -6,8 +6,6 @@
     --C3: #7c030f;
 }
 
-
-
 body {
     background-color: var(--BackgroundGroundColor);
     margin: 0;
@@ -116,6 +114,9 @@ header > nav > a:hover {
     border: solid black 2px;
 }
 
+main {
+    margin-top: 30px;
+}
 
 footer {
     position: absolute;
