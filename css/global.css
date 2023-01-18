@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 :root {
     --BackgroundGroundColor: #3a3a3c;
     --AccentColor: #bf1e2e;
@@ -6,10 +8,12 @@
     --C3: #7c030f;
 }
 
+
+
 body {
     background-color: var(--BackgroundGroundColor);
     margin: 0;
-
+    font-family: 'Roboto', sans-serif;
 }
 
 #aImgS {
