@@ -132,6 +132,7 @@ footer {
     display: flex;
     width: 100%;
     margin: 30px 0 0 0;
+    padding-top: 30px 0 0 0;
     justify-content: space-between;
     align-items: center;
     clip-path: polygon(0 0, 100% 0%, 100% 45px, calc(100% - 30px) 75px, 30px 75px, 0% 105px);
