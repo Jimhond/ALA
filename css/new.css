@@ -2,6 +2,7 @@ main{
     display: flex;
     flex-direction: column;
     gap: 3vh;
+    margin-top: 2vh;
 }
 
 .gameCard{
