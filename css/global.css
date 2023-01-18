@@ -129,7 +129,9 @@ footer {
 }
 
 @media screen and (max-height: 100vh) {
-    bottom: 0px;
+    footer {
+        bottom: 0px;
+    }
 }
 
 footer section article p {
