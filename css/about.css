@@ -7,7 +7,7 @@
     text-align: center;
     border: solid black;
     width: 30%;
-    background-color: var(--C4);
+    background-color: rgb(150,150,150);
     border-radius: 10px;
 }
 
