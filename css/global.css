@@ -78,7 +78,7 @@ header > nav {
     text-align: center;
     align-items: center;
     gap: 10px;
-    width: calc(100% - 427px - 50px);
+    width: calc(100% - 100px - 50px);
 }
 
 header > nav > a {
