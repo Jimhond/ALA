@@ -14,7 +14,9 @@ h1 {
     width: 90%;
     height: 90%;
     text-align: center;
-    border: solid white;
+    border: solid rgb(0, 0, 0) 3px;
+    background-color: var(--C4);
+    border-radius: 10px;
 }
 .genreCard img {
     width: 100%;
