@@ -1,5 +1,6 @@
 h1 {
     text-align: center;
+    margin-bottom: 10px;
 }
 
 #merchGrid {
@@ -8,6 +9,8 @@ h1 {
     grid-template-rows: repeat(2, 1fr);
     place-content: space-around;
     gap: 15px;
+    justify-items: center;
+    align-items: center;
 }
 
 .merchCard {
