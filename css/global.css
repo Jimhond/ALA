@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 :root {
-    --BackgroundGroundColor: #3a3a3c;
+    --BackgroundGroundColor: rgb(50,50,50);
     --AccentColor: #bf1e2e;
     --C1: #282829;
     --C2: #04325f;

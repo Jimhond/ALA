@@ -16,6 +16,7 @@ main{
     width: 70vw;
     height: 40vh;
     margin-left: 2vw;
+    display: table;
 }
     .gameCard > article:nth-child(1) > h2{
         margin-left: 1vw;
