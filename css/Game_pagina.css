@@ -1,0 +1,23 @@
+.gameCard {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(2,1fr);
+    margin: 30px;
+}
+
+.gameCard:nth-child(1) {
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+.gameCard:nth-child(2) {
+    grid-column-start: 1;
+    grid-column-end: 1;
+    grid-row-start: 1;
+    grid-row-end: 1;
+
+}
+
+.textBox {
+
+}
