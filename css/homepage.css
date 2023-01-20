@@ -102,7 +102,6 @@
   flex-direction: column;
   background-color: rgb(120,120,120);
   width: 30%;
-  aspect-ratio: 1 1;
   border: solid;
 }
 
