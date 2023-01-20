@@ -1,3 +1,4 @@
+/*
 .gameCard {
     display: grid;
     grid-template-columns: repeat(2,1fr);
@@ -26,4 +27,46 @@
 .gameCard:nth-child(3) img {
     width: 40vw;
 }
+*/
 
+
+
+main{
+    display: flex;
+    flex-direction: column;
+    gap: 3vh;
+    margin-top: 2vh;
+}
+
+.gameCard{
+    display: flex;
+    gap: 20px;
+}
+
+.gameCard > article:nth-child(1){
+    border: 2px black solid;
+    border-radius: 10px;
+    width: 70vw;
+    height: 40vh;
+    margin-left: 2vw;
+    display: table;
+}
+    .gameCard > article:nth-child(1) > h2{
+        margin-left: 1vw;
+    }
+    .gameCard > article:nth-child(1) > p{
+        margin-left: 1vw;
+        margin-right: 1vw;
+    }
+
+.gameCard > article:nth-child(2){
+    border: 2px black solid;
+    border-radius: 10px;
+    width: 40vw;
+    height: 40vh;
+    margin-right: 2vw;
+}
+    .gameCard > article:nth-child(2) > a > img{
+        width: 100%;
+        height: 100%;
+    }
