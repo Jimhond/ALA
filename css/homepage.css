@@ -105,6 +105,11 @@
   width: 30%;
   border: solid;
   gap: 20px;
+  align-items: center;
+}
+
+.topGameCat img {
+  width: 95%;
 }
 
 .topGameCat h1 {
