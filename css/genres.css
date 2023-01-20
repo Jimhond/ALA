@@ -13,6 +13,9 @@ h1 {
     justify-items: center;
     gap: 15px;
 }
+#genreGrid > article > img{
+    width: 40vw;
+}
 
 .genreCard {
     width: 90%;
