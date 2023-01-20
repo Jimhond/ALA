@@ -94,11 +94,13 @@
 
 #topGameGrid {
   display: flex;
+  justify-content: space-around;
 }
 
 .topGameCat {
   display: flex;
   flex-direction: column;
+  background-color: rgb(120,120,120);
 }
 
 main h1 {
