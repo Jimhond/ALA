@@ -33,7 +33,7 @@ main{
     height: 40vh;
     margin-right: 2vw;
 }
-    .gameCard > article:nth-child(2) > img{
+    .gameCard > article:nth-child(2) > a > img{
         width: 100%;
         height: 100%;
     }
