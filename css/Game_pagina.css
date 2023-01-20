@@ -41,3 +41,7 @@ main{
 #ratingImg {
     width: 70vw;
 }
+
+footer {
+    bottom: 0;
+}
