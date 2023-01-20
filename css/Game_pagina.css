@@ -23,3 +23,6 @@
     grid-row-start: 2;
     grid-row-end: 2;
 }
+.gameCard:nth-child(3) img {
+    width: 40vw;
+}
