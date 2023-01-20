@@ -1,6 +1,7 @@
 #peopleGrid {
     display: flex;
     justify-content: space-around;
+    margin-top: 30px;
 }
     #peopleGrid > article > a > img{
         width: 2vw;
