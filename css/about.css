@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-around;
 }
-    #peopleGrid > article > img{
+    #peopleGrid > article > a > img{
         width: 2vw;
     }
 

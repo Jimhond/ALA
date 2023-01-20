@@ -13,7 +13,7 @@ h1 {
     justify-items: center;
     gap: 15px;
 }
-#genreGrid > article > img{
+#genreGrid > article > a > img{
     width: 40vw;
 }
 
