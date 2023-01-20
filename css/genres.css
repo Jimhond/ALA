@@ -14,7 +14,8 @@ h1 {
     gap: 15px;
 }
 #genreGrid > article > a > img{
-    width: 40vw;
+    width: 10vw;
+    margin: 40px;
 }
 
 .genreCard {
