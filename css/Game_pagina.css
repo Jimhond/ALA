@@ -39,6 +39,8 @@ main{
     }
 
 #ratingImg {
+    justify-self: center;
+    align-self: center;
     width: 70vw;
 }
 
