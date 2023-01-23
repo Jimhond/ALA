@@ -43,7 +43,9 @@ main{
     align-self: center;
     width: 70vw;
 }
-
+.commentCard > article{
+    
+} 
 .reviewCard > article{
     border: 2px black solid;
     border-radius: 10px;
