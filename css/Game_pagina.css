@@ -43,9 +43,28 @@ main{
     align-self: center;
     width: 70vw;
 }
-.commentCard > article{
-    
-} 
+
+.commentCard{
+    display: flex;
+    gap: 20px;
+}
+
+..commentCard > article:nth-child(1){
+    border: 2px black solid;
+    border-radius: 10px;
+    width: 70vw;
+    height: 40vh;
+    margin-left: 2vw;
+    display: table;
+}
+    ..commentCard > article:nth-child(1) > h2{
+        margin-left: 1vw;
+    }
+    ..commentCard > article:nth-child(1) > p{
+        margin-left: 1vw;
+        margin-right: 1vw;
+    }
+
 .reviewCard{
     display: flex;
     gap: 20px;
