@@ -44,6 +44,14 @@ main{
     width: 70vw;
 }
 
+.reviewCard > article{
+    border: 2px black solid;
+    border-radius: 10px;
+    width: 40vw;
+    height: 40vh;
+    margin-right: 2vw;
+}
+
 footer {
     bottom: 0;
 }
