@@ -52,9 +52,8 @@ main{
 .commentCard > article:nth-child(1){
     border: 2px black solid;
     border-radius: 10px;
-    width: 70vw;
-    height: 40vh;
-    margin-left: 2vw;
+    width: 90vw;
+    margin: auto;
     display: table;
 }
     .commentCard > article:nth-child(1) > h2{
