@@ -38,9 +38,11 @@ main{
         height: 100%;
     }
 
+#ratingContainer{
+    display: flex;
+    justify-content: center;
+}
 #ratingImg {
-    justify-self: center;
-    align-self: center;
     width: 70vw;
 }
 
